@@ -1,32 +1,6 @@
-## Hi, I'm Juan Marques, a Developer 🚀 from Brazil.
-
-- 👨🏽‍💻 I’m currently working on Fapesp;
-- 🌱 I’m currently learning JavaScript;
-- 👯 I’m looking to collaborate on Unity Games 🤝;
-- 🤔 I’m looking for help with JaveScript 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am league of legends paulista champion;
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JustTheHero&theme=synthwave" />
-</a>
-<a href="https://github.com/JustTheHero/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustTheHero&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
-</a>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+<div align="center">
+<h1>Hi there, I'm Hero</h1> 
 </div>
-  
-  ##
- 
 <div> 
   </a>
   <a href="https://instagram.com/just_the_her0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,8 +9,52 @@
   <a href = "mailto:juanmarquesjordao@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juan-marques-jordão-737820219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561199040235899/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.op.gg/summoners/br/Duck%20Bonato-USP" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
   
 </div>
+
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjByOHVlM2JlMW1rdzZrcWk2d3B2c3F5enppZ3B3c2Y0ZHFiYnNiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpCHMLfs2TMvUgXP2Q/giphy.gif" />
+<p align="center">
+  <h3> Hi, I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
+</p>
+
+ - 👨🏽‍💻 I’m currently working on Fapesp;
+ 
+ - 🌱 I’m currently learning JavaScript;
+   
+ - 👯 I’m looking to collaborate on Unity Games 🤝;
+
+ - 🤔 I’m looking for help with JaveScript 😭;
+ 
+ - 💬 Ask me about anything, I am happy to help;
+ 
+ - ⚡️ Fun-Fact: I am league of legends paulista champion;
+
+##
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JustTheHero&theme=synthwave" />
+</a>
+<a href="https://github.com/JustTheHero/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustTheHero&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
+
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+  
+</div>
+  
+  ##
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/JustTheHero/output/github-contribution-grid-snake-dark.svg">
