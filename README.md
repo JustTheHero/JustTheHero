@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<img align="right" height="260px" width="430px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjByOHVlM2JlMW1rdzZrcWk2d3B2c3F5enppZ3B3c2Y0ZHFiYnNiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpCHMLfs2TMvUgXP2Q/giphy.gif" />
+<img align="right" height="260px" width="430px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRiaWNxZGpuNWVta3F0OXd5dzZ3bXYycWM3dnhoM3duemgxb3ptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGq3CMoO0DLr0ps4F3/giphy.gif" />
 <p align="center">
   <h3> Hi, I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
 </p>
@@ -57,7 +57,8 @@
  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/JustTheHero/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/JustTheHero/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/justTheHero/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustTheHero/JustTheHero/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustTheHero/JustTheHero/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JustTheHero/JustTheHero/output/github-contribution-grid-snake.svg">
 </picture>
+
