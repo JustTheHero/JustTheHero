@@ -1,5 +1,11 @@
-## About me
+## Hi, I'm Juan Marques, a Developer 🚀 from Brazil.
 
+- 👨🏽‍💻 I’m currently working on Fapesp;
+- 🌱 I’m currently learning JavaScript;
+- 👯 I’m looking to collaborate on Unity Games 🤝;
+- 🤔 I’m looking for help with JaveScript 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I am league of legends paulista champion;
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
