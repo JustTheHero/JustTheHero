@@ -25,7 +25,7 @@
    
  - 👯 I’m looking to collaborate on Unity Games 🤝;
 
- - 🤔 I’m looking for help with JaveScript 😭;
+ - 🤔 I’m looking for help with JavaScript 😭;
  
  - 💬 Ask me about anything, I am happy to help;
  
