@@ -19,9 +19,9 @@
   <h3> I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
 </p>
 
- - 👨🏽‍💻 I’m currently working on Fapesp;
+ - 👨🏽‍💻 I’m currently working on KPMG Brasil;
  
- - 🌱 I’m currently learning JavaScript;
+ - 🌱 I’m currently learning DeepLearning;
    
  - 👯 I’m looking to collaborate on Unity Games 🤝;
 
