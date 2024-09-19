@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<img align="right" height="260px" width="430px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRiaWNxZGpuNWVta3F0OXd5dzZ3bXYycWM3dnhoM3duemgxb3ptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGq3CMoO0DLr0ps4F3/giphy.gif" />
+<img align="right" height="260px" width="430px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM0eXdvbmtidTg4eDI2dTVydjlhbjlkdmQ3d3Ayd2M3ZXdnNjJwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Okr56rMvV0lV31RkC/giphy.gif" />
 <p align="center">
   <h3> I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
 </p>
@@ -43,7 +43,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+  <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
   <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
