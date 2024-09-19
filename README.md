@@ -16,7 +16,7 @@
 <br />
 <img align="right" height="260px" width="430px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRiaWNxZGpuNWVta3F0OXd5dzZ3bXYycWM3dnhoM3duemgxb3ptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGq3CMoO0DLr0ps4F3/giphy.gif" />
 <p align="center">
-  <h3> Hi, I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
+  <h3> I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
 </p>
 
  - 👨🏽‍💻 I’m currently working on Fapesp;
