@@ -19,7 +19,7 @@
   <h3> I'm Juan Marques, a Developer 🚀 from Brazil.</h3>
 </p>
 
- - 👨🏽‍💻 I’m currently working on KPMG Brasil;
+ - 👨🏽‍💻 I’m currently working on KPMG Brasil and CNPQ;
  
  - 🌱 I’m currently learning DeepLearning;
    
