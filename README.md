@@ -43,13 +43,17 @@
 </div>
 
 <div style="display: inline_block"><br>
+      <img align="center" alt="javaScript" height="50" width="40" src="https://img.icons8.com/?size=100&id=1806&format=png&color=000000">
   <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
   <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+  <img align="center" alt="javaScript" height="50" width="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+    <img align="center" alt="javaScript" height="50" width="40" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000">
+  <img align="center" alt="javaScript" height="50" width="40" src="https://img.icons8.com/?size=100&id=8143&format=png&color=000000">
+          <img align="center" alt="javaScript" height="50" width="40" src="https://img.icons8.com/?size=100&id=7849&format=png&color=000000">
   
 </div>
   
